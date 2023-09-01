@@ -3,7 +3,7 @@
 This Jupyter Notebook project provides a comprehensive analysis of text and media content using various natural language processing (NLP) techniques. The project is divided into several sections, each focusing on a different aspect of text analysis and media content understanding. Below, you'll find a brief description of each section:
 
 ## 1. Movie Sentiment Analysis
-In this section, we perform sentiment analysis on movie reviews or comments. We classify text data as positive, negative, or neutral to gauge audience sentiment towards specific movies.
+In this section, we perform sentiment analysis on movie reviews or comments. We classify text data as positive, negative, or neutral to gauge audience sentiment towards specific movies.<br>
 Dataset -> <a>https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</a>
 
 ## 2. Named Entity Recognition using Spacy
