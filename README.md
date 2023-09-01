@@ -4,6 +4,7 @@ This Jupyter Notebook project provides a comprehensive analysis of text and medi
 
 ## 1. Movie Sentiment Analysis
 In this section, we perform sentiment analysis on movie reviews or comments. We classify text data as positive, negative, or neutral to gauge audience sentiment towards specific movies.
+Dataset -> <a>https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</a>
 
 ## 2. Named Entity Recognition using Spacy
 Named Entity Recognition (NER) is a critical task in information extraction. Using the Spacy library, we identify and classify named entities such as names of people, organizations, locations, and more in the text.
